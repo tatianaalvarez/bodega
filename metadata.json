@@ -1,0 +1,6 @@
+{
+  "name": "OptiFlow Bodega a Producción - Impresos El Día",
+  "description": "Sistema de optimización del flujo de suministros con Pull System, surtido ABC inteligente, Kitting, Milk Runs, trazabilidad ISO y sincronización de inventario en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
